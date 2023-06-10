@@ -16,6 +16,10 @@ The present work is done in collaboration with the [University of Trento](https:
 Here you can find an example of some results obtained with the code in `simulation.ipynb`:
 
 <p align="center">
+    <img width=45% src="demo_plots/populations.png"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+    <img width=45% src="demo_plots/allowed.png"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
     <img width=90% src="demo_plots/comparison.png"> 
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>

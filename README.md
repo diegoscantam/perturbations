@@ -18,9 +18,11 @@ Here you can find an example of some results obtained with the code in `simulati
 <p align="center">
     <img width=45% src="demo_plots/populations.png"> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-    <img width=45% src="demo_plots/allowed.png"> 
+    <img width=60% src="demo_plots/comparison.png"> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-    <img width=90% src="demo_plots/comparison.png"> 
+    <img width=60% src="demo_plots/hfe_swt.png"> 
+&nbsp; &nbsp; &nbsp; &nbsp;
+    <img width=45% src="demo_plots/all.png"> 
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 

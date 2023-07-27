@@ -8,7 +8,7 @@
 ## About
 Implementation of a Python simulation of a quantum system of 2 spins coupled to a phonon degree of freedom. The aim is to reproduce exactly the time evolution given by the Mølmer-Sørensen interaction, and then to test and apply different perturbative expansions such as the Magnus expansion, the Dyson series, the Schrieffer-Wolff transformation and the High-Frequency expansion.
 
-The present work is done in collaboration with the [University of Trento](https://www.unitn.it/en) as part of my bachelor's thesis: "Perturbative expansions in quantum mechannics: overview, comparison and applications".
+The present work is done in collaboration with the [University of Trento](https://www.unitn.it/en) as part of my bachelor's thesis: "Perturbative expansions in quantum mechanics: overview, comparison and applications".
 
 ## How to run
 The code is a simple Jupyter notebook running Python. All you need to do is to make sure you installed the Python libraries contained in the first block of code of the file `simulation.ipynb`. 
